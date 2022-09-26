@@ -1,0 +1,14 @@
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\bin\Release\netcoreapp3.1\MedicalStores.exe
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\bin\Release\netcoreapp3.1\MedicalStores.deps.json
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\bin\Release\netcoreapp3.1\MedicalStores.runtimeconfig.json
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\bin\Release\netcoreapp3.1\MedicalStores.runtimeconfig.dev.json
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\bin\Release\netcoreapp3.1\MedicalStores.dll
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\bin\Release\netcoreapp3.1\MedicalStores.pdb
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.csproj.AssemblyReference.cache
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.AssemblyInfoInputs.cache
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.AssemblyInfo.cs
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.csproj.CoreCompileInputs.cache
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.dll
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.pdb
+C:\Users\mindc1july64\Desktop\Ms6\CaseStudy1\MedicalStores\MedicalStores\obj\Release\netcoreapp3.1\MedicalStores.genruntimeconfig.cache
